@@ -1,0 +1,15 @@
+asgiref==3.3.4
+dataclasses==0.8
+Django==3.2
+imageio==2.9.0
+numpy==1.19.5
+Pillow==8.2.0
+pytz==2021.1
+reedsolo==1.5.4
+scipy==1.5.4
+sqlparse==0.4.1
+steganogan==0.1.2
+torch==1.8.1
+torchvision==0.9.1
+tqdm==4.60.0
+typing-extensions==3.7.4.3
